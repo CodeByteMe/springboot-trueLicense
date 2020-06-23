@@ -58,8 +58,3 @@
 #### ClientDemo项目： ####
 
 项目启动时安装证书，通过`cn/zifangsky/license/LicenseCheckListener.java`类实现。用户登录时校验证书的可用性，通过`cn/zifangsky/license/LicenseCheckInterceptor.java`类实现。
-
-#### 特别说明： ####
-
-详细开发思路可以参考我写的这篇文章：[https://www.zifangsky.cn/1277.html](https://www.zifangsky.cn/1277.html)
-
